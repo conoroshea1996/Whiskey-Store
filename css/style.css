@@ -73,6 +73,10 @@ body{
 .page-header h2{
     margin-top: 0;
 }
+
+.quotes .page-header{
+    margin-bottom: 25px;
+}
 /* End of Page Headers*/
 
 /* Jumbotron */
@@ -146,6 +150,14 @@ body{
     margin-bottom: 20px;
     font-size: 45px;
     line-height: 45px;
+}
+.feature .btn {
+    border-color: white;
+    border-radius: 15px;
+    min-width: 100px;
+    font-weight: bold;
+    margin-top: 10px;
+    color: #c54949;
 }
 /*End ofFeatures*/
 
